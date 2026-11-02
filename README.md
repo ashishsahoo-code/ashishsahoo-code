@@ -1,53 +1,21 @@
-# 👋 Hi, I'm Ashish Kumar Sahoo
+# 💫 About Me:
+👋 Hi, I'm Ashish Kumar Sahoo<br>Software Engineer | Generative AI | LLMs | RAG | Agentic AI<br>I'm a Software Engineer at Accenture with 3 years of experience in software engineering, backend development, and AI-driven applications.<br><br>I'm focused on building intelligent applications using Large Language Models, Retrieval-Augmented Generation (RAG), agentic workflows, and scalable backend systems.<br><br>🚀 What I'm Working On<br>Building LLM-powered applications and AI agents.<br>Exploring Agentic AI using LangChain and LangGraph.<br>Developing RAG pipelines, retrieval strategies, and evaluation frameworks.<br>Learning MCP, LLM evaluation, and production AI architecture.<br>Improving backend performance, reliability, and scalability.<br><br>Generative AI: LLMs, RAG, LangChain, LangGraph, Prompt Engineering, Embeddings, Vector Databases, LLM Evaluation<br><br>🧪 Featured Projects<br>Project	Description<br>LLM Evaluation Framework	Modular LLM-as-a-Judge framework for evaluating relevance, faithfulness, and response quality.<br>Semantic Cache for LLMs	Exploring semantic similarity-based caching to reduce redundant LLM calls and latency.<br>RAG Security Red-Team Toolkit	Exploring security testing for RAG applications, including prompt injection and retrieval risks.<br>🎯 Current Focus<br>GenAI Engineering<br>Agentic AI & Multi-Agent Systems<br>Forward Deployed Engineering<br>Production-grade LLM applications<br>AI infrastructure and evaluation
 
-### Software Engineer | Generative AI | LLMs | RAG | Agentic AI
 
-I'm a Software Engineer at **Accenture** with 3 years of experience in software engineering, backend development, and AI-driven applications.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish__sahooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkusahoo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ashishsahoo218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishsahoodevloper@gmail.com) 
 
-I'm focused on building intelligent applications using Large Language Models, Retrieval-Augmented Generation (RAG), agentic workflows, and scalable backend systems.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ashishsahoo-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ashishsahoo-code&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsahoo-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 What I'm Working On
-
-- Building LLM-powered applications and AI agents.
-- Exploring Agentic AI using LangChain and LangGraph.
-- Developing RAG pipelines, retrieval strategies, and evaluation frameworks.
-- Learning MCP, LLM evaluation, and production AI architecture.
-- Improving backend performance, reliability, and scalability.
-
-### 🛠️ Tech Stack
-
-**Languages:** Python, Java, JavaScript, SQL
-
-**Backend:** FastAPI, Flask, Spring Boot, REST APIs
-
-**Generative AI:** LLMs, RAG, LangChain, LangGraph, Prompt Engineering, Embeddings, Vector Databases, LLM Evaluation
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
-
-**Cloud & DevOps:** Microsoft Azure, Docker, Jenkins, Git, GitHub Actions
-
-### 🧪 Featured Projects
-
-| Project | Description |
-|---|---|
-| [LLM Evaluation Framework](https://github.com/ashishsahoo-code/llm-evaluation-framework) | Modular LLM-as-a-Judge framework for evaluating relevance, faithfulness, and response quality. |
-| Semantic Cache for LLMs | Exploring semantic similarity-based caching to reduce redundant LLM calls and latency. |
-| RAG Security Red-Team Toolkit | Exploring security testing for RAG applications, including prompt injection and retrieval risks. |
-
-### 🎯 Current Focus
-
-- GenAI Engineering
-- Agentic AI & Multi-Agent Systems
-- Forward Deployed Engineering
-- Production-grade LLM applications
-- AI infrastructure and evaluation
-
-### 🤝 Let's Connect
-
-- **GitHub:** [@ashishsahoo-code](https://github.com/ashishsahoo-code)
-- **Portfolio:** [ashishsahoo-dev.netlify.app](https://ashishsahoo-dev.netlify.app)
-- **Email:** [ashishsahoodevloper@gmail.com](mailto:ashishsahoodevloper@gmail.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ashishsahoo-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ I enjoy building practical solutions, experimenting with emerging AI technologies, and collaborating on challenging engineering problems.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
